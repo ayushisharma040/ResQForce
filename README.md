@@ -1,4 +1,4 @@
-# 🚨 Disaster Response Coordination Platform
+# ResQForce – AI-Powered Disaster Coordination System
 
 A comprehensive real-time disaster management system built with the MERN stack, featuring AI-powered location extraction, social media monitoring, and geospatial resource mapping to coordinate emergency relief efforts effectively.
 
