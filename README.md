@@ -460,10 +460,6 @@ curl -X POST http://localhost:5000/api/disasters \
 - Update documentation for API changes
 - Use conventional commit messages
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** for intelligent location extraction
@@ -473,7 +469,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email saurabhsinghania111@gmail.com  , developed by Saurabh 
+For support, email ayushianjana2004@gmail.com  , developed by Ayushi
 
 ---
 
